@@ -1,0 +1,1 @@
+[{"fullname":"manasa","mobile":"123456789","email":"bathinamanasa503@gmail.com","password":"1234"},{"fullname":"smiley","mobile":"45678912","email":"198a1a0503manasa@gmail.com","password":"5678"}]

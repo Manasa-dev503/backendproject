@@ -1,0 +1,45 @@
+[
+    {
+       "id" : 1,
+       "image" : "https://thumbs.dreamstime.com/b/weightlifter-clapping-hands-preparing-workout-gym-focus-dust-112033565.jpg",
+       "Day" : "Day1" 
+    },
+    {
+        "id" : 2,
+       "image" : "https://t4.ftcdn.net/jpg/01/79/81/77/360_F_179817756_QzTocli57q9G6a1Oe7kJtoMS5dNMU8cl.jpg",
+       "Day" : "Day2" 
+
+    },
+    {
+        "id" : 3,
+       "image" : "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d29ya291dHxlbnwwfHwwfHx8MA%3D%3D",
+       "Day" : "Day3" 
+    },
+    {
+        "id" : 4,
+       "image" : "https://hips.hearstapps.com/vidthumb/images/2023-bicycling-inhouseshoot-ep40-basicstrenghthworkout-dm-v7-generic-00-15-30-03-still006-64de74ed0e65a.jpg",
+       "Day" : "Day4" 
+    },
+    {
+        "id" : 5,
+       "image" : "https://www.verywellfit.com/thmb/Xio5I7FgQh0GRwhS6qWAio3amOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pushups-5680bb925f9b586a9edf3927.jpg",
+       "Day" : "Day5" 
+    },
+    {
+        "id" : 6,
+       "image" : "https://www.mensjournal.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk2MTM2MDQyNDIzOTg1Mjk3/dbfrontsquat.jpg",
+       "Day" : "Day6" 
+    },
+    {
+        "id" : 7,
+       "image" : "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/workout-schedule-mc-220630-d0b475.jpg",
+       "Day" : "Day7" 
+    },
+    {
+        "id" : 8,
+       "image" : "https://media.gq-magazine.co.uk/photos/63d3b425a8dee570a85a25f1/16:9/w_2560%2Cc_limit/Workout-HEADER.,jpg",
+       "Day" : "Day8" 
+    }
+    
+    
+]
