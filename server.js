@@ -22,9 +22,7 @@ app.get("/register",function(req,res){
     res.sendFile(__dirname+"/register.html")
 })
 
-app.get("/login",function(req,res){
-    res.sendFile(__dirname+"/login.html")
-})
+
 
 app.post("/registerdetails",function(req,res){
     console.log("request received",req.body)
@@ -119,6 +117,10 @@ app.get("/report",function(req,res){
     res.render("report.ejs",{user:logedinuser.email,report:report})
 
 
+})
+
+app.get("/logout",function(req,res){
+    res.sendFile(__dirname+"/login.html")
 })
 
   
