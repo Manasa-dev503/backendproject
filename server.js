@@ -18,6 +18,10 @@ app.get("/",function(req,res){
     res.sendFile(__dirname+"/login.html")
 })
 
+app.get("/login",function(req,res){
+    res.sendFile(__dirname+"/login.html")
+})
+
 app.get("/register",function(req,res){
     res.sendFile(__dirname+"/register.html")
 })

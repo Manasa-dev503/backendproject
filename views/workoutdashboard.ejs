@@ -16,13 +16,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav text-dark">
                 <li class="nav-item">
-                  <a href="/dashboard" class="nav-link" style="position: relative; left: 600px; color: white;;">Workout</a>
+                  <a href="/dashboard" class="nav-link" style="position: relative; left: 560px; color: white;;">Workout</a>
                 </li>
                 <li class="nav-item text-dark">
-                  <a href="/report" class="nav-link" style="position: relative; left: 640px; color: white;">Report</a>
+                  <a href="/report" class="nav-link" style="position: relative; left: 580px; color: white;">Report</a>
                 </li>
                 <li class="nav-item text-dark">
-                    <a href="/logout" class="nav-link" style="position: relative; left: 690px; color: white;">Logout</a>
+                    <a href="/logout" class="nav-link" style="position: relative; left: 600px; color: white;">Logout</a>
                   </li>
               </ul>
             </div>
@@ -32,7 +32,7 @@
     
     <div class="row row-cols-1 row-cols-md-2 g-4">
         <% logindetails.forEach(function(login){ %>
-            <div class="card img-thumbnail" style="width: 300px; margin: 20px; height: 350px; box-shadow: 3px 3px 7px lightslategrey; margin-top: 20px;">
+            <div class="card img-thumbnail" style="width: 300px; margin: 20px; height: 350px; box-shadow: 3px 3px 7px lightslategrey; margin-top: 20px; margin-left: 90px;">
         <img src="<%= login.image %>" width="250px">
         <div class="card-body">
             <a href="/categories/<%= login.Day %>"><h5 class="card-footer bg-dark" style="text-align: center;"><%= login.Day %></h5></a>
